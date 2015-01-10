@@ -1,0 +1,101 @@
+@charset "UTF-8";
+body{
+			font-family: "Courier New", "Lucinda Console", Monaco, Courier, monospace;
+			background-color: black;
+			margin-top: 0%;
+}
+
+div.my_goddamn_name{
+text-transform: uppercase;
+font-size: 100px;
+margin-top: 0px auto 0px auto;
+text-align: center;
+}
+span.m{
+	-webkit-animation: my_goddamn_name 1.33s ease 1s 1 normal forwards;
+}
+span.a{
+	-webkit-animation: my_goddamn_name 1.33s ease 1.33s 1 normal forwards;
+}
+span.r{
+	-webkit-animation: my_goddamn_name 1.33s ease 1.66s 1 normal forwards;
+}
+span.y{
+	-webkit-animation: my_goddamn_name 1.33s ease 2s 1 normal forwards;
+}
+span.s{
+	-webkit-animation: my_goddamn_name 1.33s ease 2.33s 1 normal forwards;
+}
+span.h{
+	-webkit-animation: my_goddamn_name 1.33s ease 2.66s 1 normal forwards;
+}
+span.y_2{
+	-webkit-animation: my_goddamn_name 1.33s ease 3s 1 normal forwards;
+}
+span.n{
+	-webkit-animation: my_goddamn_name 1.33s ease 3.33s 1 normal forwards;
+}
+span.e{
+	-webkit-animation: my_goddamn_name 1.33s ease 3.66s 1 normal forwards;
+}
+div.main_page{
+	background-color: black;
+	margin: 0 auto 0 auto;
+	font-size: 80px;
+		text-align: center;
+
+}
+
+@keyframes my_goddamn_name{
+	0%{color:black;}
+	25%{color: cyan;}
+	50%{color: yellow;}
+	75%{color: magenta;}
+	100%{color: white;text-transform: lowercase;}
+}
+
+div.color_set{
+	width: 90%/*1024px*/;
+	/*background-color: #fff;*/
+	margin: 10px auto 0px auto;
+		text-align: center;
+}
+
+table.color_set_text{
+    	width: 90%/*1024px*/;
+	/*background-color: #fff;*/
+	margin: 0px auto 0px auto;
+		text-align: center;
+}
+
+table.color_set_text tr td{
+    width: 25%;
+}
+
+div.main_text{
+    display:none;
+}
+.hide{
+    display: none;
+}
+
+div.visitor_form{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 5px 0px 5px 0px;
+}
+
+.wrong{
+    color: rgb(0,255,0);
+}
+
+
+    
+div.about, div.illustration, div.etc, div.comics, .back{
+    cursor: crosshair;
+}
+
+#cmyk, #rgb, #grayscale{
+    cursor: crosshair;
+}

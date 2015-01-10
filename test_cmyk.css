@@ -1,0 +1,90 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+div.about{
+	background-color: cyan;
+}
+
+div.comics{
+	background-color: yellow;
+}
+
+div.etc{
+	background-color: black;
+	color: white;
+}
+
+div.illustration{
+	background-color: magenta;
+}
+
+
+div.back{
+    background-color: #fff;
+}
+
+
+/*--------CONTENT-------*/
+
+
+.centered_box_about{
+    background-color: cyan;
+}
+
+.centered_box_comics{
+	background-color: yellow;
+}
+
+.centered_box_illustration{
+    background-color: magenta;
+}
+
+.centered_box_etc{
+    background-color: #000;
+    color: #fff;
+}
+
+.centered_box_visitor_form{
+    background-color: #000;
+    color: #fff;
+}
+
+
+/* ----BOTTOM LETTERS------ */
+#cmyk{
+    background-color: #000;
+}
+
+.c{
+    color: cyan;
+}
+
+.m{
+    color: magenta;
+}
+
+.y{
+    color: yellow;
+}
+
+.k{
+    color: #fff;
+}
+
+table.color_set_text{
+	color: #fff;
+}
+
+/* ---links etc--- */
+a:link, a:visited{
+    color: #000;
+}
+
+.centered_box_etc a:link, .centered_box_etc a:visited{
+    color: #fff;
+}
+
+div.etc a:link, div.etc a:visited{
+    color: #fff;
+}

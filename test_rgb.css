@@ -1,0 +1,93 @@
+body{
+    background-color: #fff;
+}
+
+.red{
+    color: rgb(255,0,0);
+}
+
+.green{
+    color: rgb(0,255,0);
+}
+
+.blue{
+    color:rgb(0,0,255);
+}
+
+/* -- LINKS -- */
+
+a:link, a:visited{
+    color: #000;
+}
+
+.centered_box_etc a:link, .centered_box_etc a:visited{
+    color: #000;
+}
+
+div.etc a:link, div.etc a:visited{
+    color: #000;
+}
+div.visitor_form a:link, div.visitor_form a:visited{
+    color: #000;
+}
+
+
+/*----------MAIN DIV-----------*/
+
+div.main_page{
+	background-color: #fff;
+    color: #000;
+}
+
+.about{
+	background-color: rgb(255,0,0);
+	color: #fff;
+}
+
+div.comics{
+	background-color: rgb(0,255,0);
+	color: #fff;
+}
+
+div.etc{
+	background-color: #fff;
+}
+
+div.illustration{
+	background-color: rgb(0,0,255);
+	color: #fff;
+}
+
+div.back{
+    color: #000;
+    background-color: #fff;
+
+
+/*--------CONTENT-------*/
+
+.centered_box_about{
+    background-color: rgb(255,0,0);
+}
+
+.centered_box_comics{
+    background-color: rgb(0,255,0);
+}
+
+.centered_box_illustration{
+    background-color: rgb(0,0,255);
+}
+
+.centered_box_etc{
+    background-color: #fff;
+    color: #000;
+}
+
+
+/* ----BOTTOM LETTERS------ */
+
+#rgb{
+    background-color: #fff;
+}
+
+
+

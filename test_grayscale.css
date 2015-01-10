@@ -1,0 +1,77 @@
+body{
+    background-color: #fff;
+}
+
+/*----------MAIN DIV-----------*/
+div.main_page{
+	background-color: #fff;
+    color: #fff;
+}
+
+div.about{
+	background-color: #000;
+}
+
+div.comics{
+	background-color: #404040;
+}
+
+div.etc{
+	background-color: #fff;
+	color: #000;
+}
+
+div.illustration{
+	background-color: #BFBFBF;
+}
+
+div.back{
+    color: #000;
+    background-color: #fff;
+}
+
+
+/*--------CONTENT-------*/
+
+.centered_box_about{
+	background-color: #000;
+	color: #fff;
+}
+
+.centered_box_comics{
+	background-color: #404040;
+	color: #fff;
+}
+.centered_box_illustration{
+	background-color: #BFBFBF;
+	color: #fff;
+}
+.centered_box_etc{
+    background-color: #fff;
+    color: #000;
+}
+
+.centered_box_visitor_form{
+    background-color: #fff;
+    color: #000;
+}
+
+
+#grayscale{
+    background-color: #404040;
+    color: #fff;
+}
+
+/* -- links -- */
+
+a:link, a:visited{
+    color: #fff;
+}
+
+.centered_box_etc a:link, .centered_box_etc a:visited{
+    color: #000;
+}
+
+div.etc a:link, div.etc a:visited{
+    color: #000;
+}
